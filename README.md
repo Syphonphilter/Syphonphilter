@@ -1,4 +1,5 @@
 # 👋 Hi there, I'm Bala.
+<a href="https://app.daily.dev/syphonphilter"><img src="https://api.daily.dev/devcards/6d5be509582b440e9dedff7da186f68f.png?r=3va" width="400" alt="Abdulkadir Bala's Dev Card"/></a>
 # A passionate Full-Stack Software Engineer/ Compuer Scientist and AI Engineer.
 
 ## 🌐 My Socials:
